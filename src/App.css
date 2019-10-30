@@ -1,3 +1,7 @@
 .App {
     font-family: 'ZCOOL XiaoWei', serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
 }
