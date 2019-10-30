@@ -1,0 +1,38 @@
+
+.carousel-multi-item .carousel-item {
+    display: flex!important;
+    
+}
+
+p {
+    font-family: 'Sigmar One', cursive;
+    
+
+}
+
+.img-fluid {
+width: 100% !important;
+margin: 0 !important;
+
+}
+
+.card.mb-2 {
+    width: 500px!important;
+}
+
+.title {
+    font-family: 'Sigmar One', cursive;
+
+}
+
+* {
+    margin-top: 1vh;
+}
+
+.scroller {
+    font-size: 4vh!important;
+}
+
+.controls-top {
+    font-size: 4vh!important;
+}
