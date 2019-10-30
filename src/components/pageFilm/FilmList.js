@@ -14,8 +14,7 @@ const FilmList = () => {
     }
 
     getFilm();
-
-    console.log(film)
+    
         return ( 
             <div className="filmList">
                 {film.map(x =>(
